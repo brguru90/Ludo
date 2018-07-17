@@ -1,0 +1,10 @@
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\bin\Debug\Chowka Bhara.exe.config
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\bin\Debug\Chowka Bhara.exe
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\bin\Debug\Chowka Bhara.pdb
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka Bhara.csprojResolveAssemblyReference.cache
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka_Bhara.Form1.resources
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka_Bhara.Properties.Resources.resources
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka Bhara.csproj.GenerateResource.Cache
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka Bhara.csproj.CoreCompileInputs.cache
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka Bhara.exe
+C:\Users\Guruprasad BR\source\repos\Chowka Bhara\Chowka Bhara\obj\Debug\Chowka Bhara.pdb
